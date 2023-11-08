@@ -1,6 +1,6 @@
 NAME := my-echo
 REPOSITORY := kaikeuchi/$(NAME)
-TAG := 2023110801
+TAG := 2023110802
 GOOS := windows
 GOARCH := amd64
 
